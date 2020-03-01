@@ -1,3 +1,4 @@
+## E.B.3
 SELECT * FROM posts ORDER BY TITLE
 
 ## E.B.4
